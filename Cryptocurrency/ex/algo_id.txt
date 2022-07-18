@@ -1,0 +1,3 @@
+{'code': 0, 'data': {'result': 'success', 'algo_id': '532327911871905792', 'error_message': '', 'error_code': '0', 'instrument_id': 'BTC-USDT-SWAP', 'order_type': 1}, 'detailMsg': '', 'error_code': '0', 'error_message': '', 'msg': ''}
+{'code': 0, 'data': {'result': 'success', 'algo_id': '532327913769828352', 'error_message': '', 'error_code': '0', 'instrument_id': 'BTC-USDT-SWAP', 'order_type': 1}, 'detailMsg': '', 'error_code': '0', 'error_message': '', 'msg': ''}
+{'code': 0, 'data': {'result': 'success', 'algo_id': '532327915523047424', 'error_message': '', 'error_code': '0', 'instrument_id': 'BTC-USDT-SWAP', 'order_type': 1}, 'detailMsg': '', 'error_code': '0', 'error_message': '', 'msg': ''}
